@@ -1,0 +1,3 @@
+vinyl:
+  message:
+    greeting: "Welcome to our service! (msg loaded from config server)"
